@@ -25,10 +25,10 @@ Estilo
 > ITESM
 
 # Enlace 
-[Por si quieres ver un buen video](https://www.youtube.com/watch?v=a01QQZyl-_I)
+[Buena música](https://www.youtube.com/watch?v=a01QQZyl-_I)
 
 # Imagen
-![Uno de mis personajes favoritos](https://seriepolis.com/wp-content/uploads/2020/12/Rolling-Stones-photo.jpg)
+![La mejora banda](https://seriepolis.com/wp-content/uploads/2020/12/Rolling-Stones-photo.jpg)
 
 # SemanaTecMayo2022 Mapa
 ```
@@ -50,18 +50,17 @@ geojson
 # Listas
 Puedes realizar una lista desordenada al anteceder una o más líneas de texto con - o *
 
-**Lista de mis series favoritas**
-- The 100
-- The Walking Dead
-- The Punisher
-- Game of Thrones
-- Loki
-- Arcane
+**Lista de mis canciones favoritas**
+- Dance, Dance
+- Seven Nation Army
+- Somebody Told me
+- The middle
+- Fell in love with a girl
 
-**Lista de mis juegos favoritos**
-1. The Walking Dead 
-2. The Last of Us
-3. Life is Strange 
+**Lista de mis Bandas favoritos**
+1. Panda
+2. Green Day
+3. Fall out boy
 
 # Listas Anidadas 
 - Primero
@@ -70,8 +69,8 @@ Puedes realizar una lista desordenada al anteceder una o más líneas de texto c
 
 # Lista de Tareas
 - [x] Ir a la clase de Semana Tec
-- [ ] Comprar Twitter
-- [ ] Hackear la Nasa
+- [ ] Ir al trabajo
+- [ ] Hace tarea de semana tec
 
 # Ocultar el contenido 
 <!-- Esto no aparecerá en el Markdown -->
