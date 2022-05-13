@@ -27,7 +27,7 @@ Estilo
 [Por si quieres ver un buen video](https://www.youtube.com/watch?v=a01QQZyl-_I)
 
 # Imagen
-![Uno de mis personajes favoritos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseriepolis.com%2F2020%2F12%2Ffx-encarga-dos-temporada-a-nueva-serie-centrada-en-la-banda-musical-rolling-stones%2F&psig=AOvVaw2_tYwjz9tQRLhcIcS5R7AC&ust=1652500832865000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjcqLzL2_cCFQAAAAAdAAAAABAD)
+![Uno de mis personajes favoritos](https://seriepolis.com/wp-content/uploads/2020/12/Rolling-Stones-photo.jpg)
 
 # SemanaTecMayo2022 Mapa
 ```
