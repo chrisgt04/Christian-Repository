@@ -14,8 +14,63 @@ Estilo
 -Todo en negrita y cursiva *** *** ***Todo este texto es importante***
 
 #Usar emojis inicia escribiendo : + letra escoges al emoji que quieres
-👉.
-⭐️.
-🤍.
-🥳.
-✅.
+👉
+⭐️
+🤍
+🥳
+✅
+
+# Cita de Texto
+> ITESM
+
+# Enlace 
+[Por si quieres ver un buen video](https://www.youtube.com/watch?v=D9G1VOjN_84&list=LL&index=20)
+
+# Imagen
+![Uno de mis personajes favoritos](https://indiehoy.com/wp-content/uploads/2018/11/the-walking-dead-rick-grimes-1200x900.jpg)
+
+# SemanaTecMayo2022 Mapa
+```
+geojson
+{
+  "type": "Polygon",
+  "coordinates": [
+    [
+      [-85,35],
+      [-100.2155, 25.6748],
+      [-100.309, 25.6714],
+      [-101.35628, 20.67675],
+      [-85,30]
+    ]
+  ]
+}
+```
+
+# Listas
+Puedes realizar una lista desordenada al anteceder una o más líneas de texto con - o *
+
+**Lista de mis series favoritas**
+- The 100
+- The Walking Dead
+- The Punisher
+- Game of Thrones
+- Loki
+- Arcane
+
+**Lista de mis juegos favoritos**
+1. The Walking Dead 
+2. The Last of Us
+3. Life is Strange 
+
+# Listas Anidadas 
+- Primero
+  - Segundo
+    - Tercero
+
+# Lista de Tareas
+- [x] Ir a la clase de Semana Tec
+- [ ] Comprar Twitter
+- [ ] Hackear la Nasa
+
+# Ocultar el contenido 
+<!-- Esto no aparecerá en el Markdown -->
