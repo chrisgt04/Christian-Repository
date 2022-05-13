@@ -14,10 +14,11 @@ Estilo
 - Todo en negrita y cursiva *** *** ***Todo este texto es importante***
 
 # Usar emojis inicia escribiendo : + letra escoges el emoji que quieres
-🇲🇽
-🇨🇦
-🇦🇷
-😎
+👉
+⭐️
+✅
+🤍
+🤩
 👍
 
 # Cita de Texto
