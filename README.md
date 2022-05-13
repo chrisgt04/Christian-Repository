@@ -24,10 +24,10 @@ Estilo
 > ITESM
 
 # Enlace 
-[Por si quieres ver un buen video](https://www.youtube.com/watch?v=D9G1VOjN_84&list=LL&index=20)
+[Por si quieres ver un buen video](https://www.youtube.com/watch?v=a01QQZyl-_I)
 
 # Imagen
-![Uno de mis personajes favoritos](https://indiehoy.com/wp-content/uploads/2018/11/the-walking-dead-rick-grimes-1200x900.jpg)
+![Uno de mis personajes favoritos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseriepolis.com%2F2020%2F12%2Ffx-encarga-dos-temporada-a-nueva-serie-centrada-en-la-banda-musical-rolling-stones%2F&psig=AOvVaw2_tYwjz9tQRLhcIcS5R7AC&ust=1652500832865000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjcqLzL2_cCFQAAAAAdAAAAABAD)
 
 # SemanaTecMayo2022 Mapa
 ```
